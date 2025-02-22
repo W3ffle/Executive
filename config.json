@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTI5ODExOTM4MjUzMDAwMzAwNA.GD1XRB.qr3xkSfjJNwsWpKqrXMHvrseTnc-hdUHQWzHwo",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://Waffle:<Waffle3>@artemis.lyrlw.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
